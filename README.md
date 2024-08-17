@@ -37,11 +37,28 @@ Here is the list of PRs (both open & closed) that I created during GSoC.
 
 In the context of evolutionary algorithms and its variants, evaluating performance across different optimization tasks is crucial. The following images illustrate the effectiveness of the mlpack's implementation on two benchmark functions: Rastrigin and Rosenbrock.
 
+### CMA-ES
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
+    <img src="src/Rastrigin_CMAES.png" alt="Rastrigin CMA-ES" width="300">
+    <img src="src/Rosenbrock_CMAES.png" alt="Rosenbrock CMA-ES" width="300">
+</div>
+
+### Active CMA-ES
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
     <img src="src/Rastrigin_ActiveCMAES.png" alt="Rastrigin Active CMA-ES" width="300">
-    <img src="src/Rastrigin_CMAES.png" alt="Rastrigin CMA-ES" width="300">
     <img src="src/Rosenbrock_ActiveCMAES.png" alt="Rosenbrock Active CMA-ES" width="300">
-    <img src="src/Rosenbrock_CMAES.png" alt="Rosenbrock CMA-ES" width="300">
+</div>
+
+### IPOP-CMA-ES
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
+    <img src="src/Rastrigin_IPOP_CMAES.png" alt="Rastrigin IPOP-CMA-ES" width="300">
+    <img src="src/Rosenbrock_IPOP_CMAES.png" alt="Rosenbrock IPOP-CMA-ES" width="300">
+</div>
+
+### BIPOP-CMA-ES
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
+    <img src="src/Rastrigin_BIPOP_CMAES.png" alt="Rastrigin BIPOP-CMA-ES" width="300">
+    <img src="src/Rosenbrock_BIPOP_CMAES.png" alt="Rosenbrock BIPOP-CMA-ES" width="300">
 </div>
 
 ## Future plans 
