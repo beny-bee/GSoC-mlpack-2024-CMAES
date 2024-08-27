@@ -10,7 +10,7 @@
 
 ## Abstract
 mlpack is a fast, open-source, flexible C++ machine learning library aiming to provide fast, extensible implementations of cutting-edge machine learning algorithms.
-This project focused on enhancing the Covariance Matrix Adaptation Evolution Strategy (CMA-ES) algorithm within mlpack by implementing advanced variants and improving its robustness.
+This project focused on enhancing the Covariance Matrix Adaptation Evolution Strategy (CMA-ES) algorithm within mlpack (specifically the ensmallen library) by implementing advanced variants and improving its robustness.
 
 
 ## Goal
