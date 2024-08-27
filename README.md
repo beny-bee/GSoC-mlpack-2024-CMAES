@@ -39,32 +39,21 @@ Here is the list of PRs (both open & closed) that I created during GSoC.
 In the context of evolutionary algorithms and its variants, evaluating performance across different optimization tasks is crucial. The following images illustrate the effectiveness of the mlpack's implementation on two benchmark functions: Rastrigin and Rosenbrock.
 
 ### CMA-ES
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px; padding: 10px; border: 2px solid #ddd; margin-bottom: 20px;">
-    <img src="src/Rastrigin_CMAES.png" alt="Rastrigin CMA-ES" width="300">
-    <div style="border-left: 2px solid #ccc; height: 300px;"></div>
-    <img src="src/Rosenbrock_CMAES.png" alt="Rosenbrock CMA-ES" width="300">
-</div>
+| ![Rastrigin CMA-ES](src/Rastrigin_CMAES.png) | ![Rosenbrock CMA-ES](src/Rosenbrock_CMAES.png) |
+|:-------------------------------------------:|:---------------------------------------------:|
 
 ### Active CMA-ES
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px; padding: 10px; border: 2px solid #ddd; margin-bottom: 20px;">
-    <img src="src/Rastrigin_ActiveCMAES.png" alt="Rastrigin Active CMA-ES" width="300">
-    <div style="border-left: 2px solid #ccc; height: 300px;"></div>
-    <img src="src/Rosenbrock_ActiveCMAES.png" alt="Rosenbrock Active CMA-ES" width="300">
-</div>
+| ![Rastrigin Active CMA-ES](src/Rastrigin_ActiveCMAES.png) | ![Rosenbrock Active CMA-ES](src/Rosenbrock_ActiveCMAES.png) |
+|:--------------------------------------------------------:|:----------------------------------------------------------:|
 
 ### IPOP-CMA-ES
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px; padding: 10px; border: 2px solid #ddd; margin-bottom: 20px;">
-    <img src="src/Rastrigin_IPOP_CMAES.png" alt="Rastrigin IPOP-CMA-ES" width="300">
-    <div style="border-left: 2px solid #ccc; height: 300px;"></div>
-    <img src="src/Rosenbrock_IPOP_CMAES.png" alt="Rosenbrock IPOP-CMA-ES" width="300">
-</div>
+| ![Rastrigin IPOP-CMA-ES](src/Rastrigin_IPOP_CMAES.png) | ![Rosenbrock IPOP-CMA-ES](src/Rosenbrock_IPOP_CMAES.png) |
+|:-----------------------------------------------------:|:-------------------------------------------------------:|
 
 ### BIPOP-CMA-ES
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px; padding: 10px; border: 2px solid #ddd;">
-    <img src="src/Rastrigin_BIPOP_CMAES.png" alt="Rastrigin BIPOP-CMA-ES" width="300">
-    <div style="border-left: 2px solid #ccc; height: 300px;"></div>
-    <img src="src/Rosenbrock_BIPOP_CMAES.png" alt="Rosenbrock BIPOP-CMA-ES" width="300">
-</div>
+| ![Rastrigin BIPOP-CMA-ES](src/Rastrigin_BIPOP_CMAES.png) | ![Rosenbrock BIPOP-CMA-ES](src/Rosenbrock_BIPOP_CMAES.png) |
+|:-------------------------------------------------------:|:--------------------------------------------------------:|
+
 
 ## Future plans 
 
